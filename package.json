@@ -1,0 +1,17 @@
+{
+  "name": "memorable-password-generator",
+  "version": "0.0.1",
+  "description": "Generates memorable passwords with short words and numeral sequences, with a number of configurable options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Jesse Glacken",
+  "license": "ISC"
+}
