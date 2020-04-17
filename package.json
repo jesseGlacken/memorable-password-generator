@@ -13,5 +13,8 @@
     "nodejs"
   ],
   "author": "Jesse Glacken",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
 }
