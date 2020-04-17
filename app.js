@@ -1,0 +1,1 @@
+export { createMemorablePassword } from "./src/create-memorable-password";
